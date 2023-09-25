@@ -2,3 +2,6 @@
 Custom iOS / Google Maps Themed Postal map for Los Santos in FiveM
 
 Just drag and drop and ensure like any other resource.
+
+The FlyBandit Studios
+https://discord.gg/MH9BADQuZy
